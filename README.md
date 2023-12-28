@@ -1,4 +1,9 @@
+
 # Developing a Simple Webserver
+### NAME : PRITHIVIRAJAN V
+
+### REFERENCE NUMBER : 212223100042
+
 
 # AIM:
 
@@ -28,7 +33,12 @@ Testing the webserver
 
 ## PROGRAM:
 
+![image](https://github.com/Prithivirajan2911/webserver/assets/147020085/977dc374-c0f7-461b-a882-94496aa5214a)
+
 ## OUTPUT:
+
+![image](https://github.com/Prithivirajan2911/webserver/assets/147020085/f6971567-fba7-45fc-a39d-b344dcd62634)
+
 
 ## RESULT:
 The program is executed succesfully
